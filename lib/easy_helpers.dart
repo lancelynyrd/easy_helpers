@@ -1,12 +1,12 @@
-export './extensions/datetime.extension.dart';
-export './extensions/string.extensions.dart';
+export './src/extensions/datetime.extension.dart';
+export './src/extensions/string.extensions.dart';
 
-export './functions/alert_dialog.function.dart';
-export './functions/confirm_dialog.function.dart';
-export './functions/error_dialog.function.dart';
-export './functions/input_dialog.function.dart';
-export './functions/locale.functions.dart';
-export './functions/log.functions.dart';
-export './functions/platform.functions.dart';
-export './functions/string.functions.dart';
-export './functions/toast.function.dart';
+export './src/functions/alert_dialog.function.dart';
+export './src/functions/confirm_dialog.function.dart';
+export './src/functions/error_dialog.function.dart';
+export './src/functions/input_dialog.function.dart';
+export './src/functions/locale.functions.dart';
+export './src/functions/log.functions.dart';
+export './src/functions/platform.functions.dart';
+export './src/functions/string.functions.dart';
+export './src/functions/toast.function.dart';
