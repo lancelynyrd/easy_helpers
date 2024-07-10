@@ -1,3 +1,8 @@
+## 0.0.2
+
+* Refactor. Hide indivisual code files and export only `easy_helper.dart`.
+
+
 ## 0.0.1
 
-* initial release.
+* Initial release.
